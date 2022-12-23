@@ -43,7 +43,7 @@ To install task manager follow these steps:
 Run the code and read the ouput
 
 ## Credits
-Ash Starr - Who worte the code
+Ash Starr - Who wrote the code
 
 Hyperion Dev - Who provided the training and support to help me write the code
 
