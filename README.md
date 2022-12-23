@@ -35,9 +35,14 @@ To install task manager follow these steps:
    ```sh
    git clone https://github.com/your_username_/Project-Name.git
    ```
-   
-2. Run the semantics.py file in your ide
 
+2. Build and run the environment in docker
+   ```sh
+      docker build -t python-app ./
+      docker run python-app
+   ```
+
+3. The semantics.py file will run in docker
 
 ## Usage
 Run the code and read the ouput

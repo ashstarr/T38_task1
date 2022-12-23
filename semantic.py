@@ -1,3 +1,7 @@
+# ====== References ======
+# I used this site to find out how to install spacy using docker
+# https://pip.pypa.io/en/latest/user_guide/#requirements-files
+
 # ====== Import Libraries ======
 # Import spacy
 import spacy
