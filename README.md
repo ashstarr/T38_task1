@@ -6,7 +6,7 @@ Semantic Similarity (NLP) Task 1
 
 This is a series of code that use Python's Spacy module to comapare sets of text.
 
-There are 3 sections of code as follows:
+There are 4 sections of code as follows:
 - Similarity with Spacy
 - Working with vectors
 - Working with sentences
